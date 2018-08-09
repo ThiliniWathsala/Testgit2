@@ -1,1 +1,1 @@
-this is my 1st text file
+this is my 1st text file.i want to make it with java and java script
